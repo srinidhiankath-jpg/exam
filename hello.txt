@@ -1,0 +1,2 @@
+Hello! I am learning Source Code Management.
+This is my first GitHub project.
